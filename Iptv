@@ -68,3 +68,8 @@ https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst
 #EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://toplogos.ru/images/logo-kino-tv.png",Кино ТВ HD
 https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="🎬Кино и сериалы",Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://catchup.videoline.ru/cinema/playlist.m3u8
+
+
