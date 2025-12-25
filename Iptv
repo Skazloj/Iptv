@@ -19,3 +19,51 @@ https://edge01r.mediavitrina.ru:443/hls-livef2/ctc/tracks-v3a1/mono.ts.m3u8?toke
 https://edge01p.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v3a1/mono.ts.m3u8?token=v2.ubQN96B0jsYrq7F6oJUIsVuL-uJuNWe1X2RImWG0Odg.ImDIe9QJ_NzASWR_tdt-cl17z7Vp-6oZMzF2C65MoOM.1767277141.601b26773444dc726037304797bbe701
 #EXTINF:-1 group-title="MyTv800x450", Че
 https://a635216064-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/playlist.m3u8?profile=web_auto&useseq=t
+
+#EXTINF:-1 group-title="⚡Познавательные" tvg-id="VIJU HISTORY", VIJU HISTORY HD
+http://178.134.1.158:8081/viasathistory/index.m3u8?token=test
+
+#EXTINF:-1 group-title="⚡Познавательные" tvg-id="VIJU HISTORY", VIJU HISTORY
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+
+#EXTINF:-1 tvg-id="viasat-nature" group-title="⚡Познавательные", Viju Nature
+http://188.208.197.173/viasat-nature/video.m3u8?token=tvon
+
+#EXTINF:-1 group-title="⚡Познавательные", Viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+
+#EXTINF:-1 group-title="⚡Познавательные",Viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+
+#EXTINF:-1 group-title="⚡Познавательные" tvg-id="VIJU EXPLORE", VIJU EXPLORE HD
+http://188.208.197.173/viasat-explore/video.m3u8?token=tvon
+
+#EXTINF:-1 group-title="🎬Кино и сериалы",viju TV1000 Action
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1 group-title="🎬Кино и сериалы",TV1000 Action
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 group-title="🎬Кино и сериалы",TV 1000 Action
+http://2.57.217.85:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="🎬Кино и сериалы",viju TV1000
+http://193.25.8.59:8000/TV1000
+#EXTINF:-1 group-title="🎬Кино и сериалы",viju TV1000 HD
+http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎬Кино и сериалы",Viju TV1000 Русское
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 group-title="🎬Кино и сериалы",TV1000 Русское кино
+http://193.25.8.59:8000/TV1000RU
+#EXTINF:-1 group-title="🎬Кино и сериалы",TV 1000 Русское кино HD
+http://2.57.217.85:8000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="🎬Кино и сериалы",viju+ Comedy HD
+http://2.57.217.85:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="🎬Кино и сериалы",viju+ Megahit HD
+http://2.57.217.85:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="🎬Кино и сериалы",Viju+ premiere HD
+http://2.57.217.85:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="🎬Кино и сериалы",VIJU+ SERIAL
+
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://toplogos.ru/images/logo-kino-tv.png",Кино ТВ HD
+https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2NzAzMTAyNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDI2MjI2LCJzZXNzaW9uX2lkIjoiYTlkMTMwZmFhNzhlMGJkNDZiNzk5MzNjMTMwZmNlMmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2LLjt-ixDAW4kIJD0zl-Bv9bYFCzONpiwuh4pyfoUBM
+
+#EXTINF:-1 group-title="🎬Кино и сериалы" tvg-logo="https://toplogos.ru/images/logo-kino-tv.png",Кино ТВ HD
+https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8
