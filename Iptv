@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Обновление 25.12.26",
+
 #EXTINF:-1 ,TV1000 1
 https://s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/variant.m3u8?profile=drmd&profile=web_auto&t=1766670779&h=Cwj1xd%2FE12qIpJJ+WkS5yA%3D%3D&u=1437579783
 #EXTINF:-1 ,TV1000 2
