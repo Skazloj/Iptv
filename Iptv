@@ -17,3 +17,5 @@ https://edge02d.mediavitrina.ru:443/hls-livef8/tnt/tracks-v3a1/mono.ts.m3u8?toke
 https://edge01r.mediavitrina.ru:443/hls-livef2/ctc/tracks-v3a1/mono.ts.m3u8?token=v2.-X4lBgbqPIvm0gYhdmMQEZzU716lw4XaNMaS4JmgV7c.CwYNLD0okWmHzUkdYBmYxCYnm7s66C8gGERLpFA7W6I.1767276903.d0c07b1e7b970029d9d1605f797993f2
 #EXTINF:-1 group-title="MyTv800x450", РЕН ТВ
 https://edge01p.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v3a1/mono.ts.m3u8?token=v2.ubQN96B0jsYrq7F6oJUIsVuL-uJuNWe1X2RImWG0Odg.ImDIe9QJ_NzASWR_tdt-cl17z7Vp-6oZMzF2C65MoOM.1767277141.601b26773444dc726037304797bbe701
+#EXTINF:-1 group-title="MyTv800x450", Че
+https://a635216064-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/playlist.m3u8?profile=web_auto&useseq=t
