@@ -72,7 +72,7 @@ https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://catchup.videoline.ru/cinema/playlist.m3u8
 
-#EXTINF:-1 group-title="TEST (VPN)",Kino TV
+#EXTINF:-1 group-title="TEST (VPN)",Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 
 
