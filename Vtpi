@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz
+
 #EXTINF:-1 group-title="📩Обновление 01.01.26🍟",
 
 #EXTINF:-1 ,Relax
@@ -8,6 +9,13 @@ http://cdn.olsibtv.org:9999/channel/5eebb8a8/index.m3u8
 http://srvru.play-x.ru:7799/channel/5eebb8a8/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 
 
+#EXTINF:-1 group-title="18+",Redlight HD
+http://85.11.144.9:50999/39
+#EXTINF:-1 group-title="18+",Vivid TV EUROPE
+http://213.169.39.30:5269
+
+#EXTINF:-1 group-title="18+",HD
+http://85.11.144.9:50999/1
 
 #EXTINF:-1 ,TV1000 1
 https://s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/variant.m3u8?profile=drmd&profile=web_auto&t=1766670779&h=Cwj1xd%2FE12qIpJJ+WkS5yA%3D%3D&u=1437579783
